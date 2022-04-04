@@ -12,14 +12,16 @@
 ### Previously, our code for green energy stocks analysis used nested loops to report data from 2017 and 2018 sheets. Below are the images of the results and the time it took to run the macro.
 
 ###### _The elapsed time of the previous version for 2017 and 2018_
-image 1
-image 2
+
+![Alt text](/module2_2017.png "imagen0")
+![Alt text](/module2_2018.png "imagen1")
 
 ### Through the revision and refactoring of the code, it was possible to improve the code and reduce time.
 
 ###### _The elapsed time of the newer version for 2017 and 2018_
-image 3
-image 4
+
+![Alt text](/challenge_2017.png "imagen3")
+![Alt text](/challenge_2018.png "imagen4")
 
 ## Summary
 
