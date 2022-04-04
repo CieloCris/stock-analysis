@@ -3,7 +3,7 @@
 ## Overview
 
 #### The parents of our client, Steve, want to invest in green energy stock, especially in DAQO. Because of this, Steve asked us to do a dataset analysis to identify the market performance of green stocks. We used excel and VBA, with which we created a macro that allowed us to facilitate the analysis and data visualization so that Steve can make the best recommendations to his parents.
-### However, once we programmed our VBA script, the newest challenge is to improve the macro.
+#### However, once we programmed our VBA script, the newest challenge is to improve the macro.
 
 ## Purpose
 #### Our purpose is to refactor and improve the VBA code so it can run faster. That is, our goal is to refactor the macro to make it more efficient.
