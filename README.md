@@ -2,21 +2,21 @@
  
 ## Overview
 
-### The parents of our client, Steve, want to invest in green energy stock, especially in DAQO. Because of this, Steve asked us to do a dataset analysis to identify the market performance of green stocks. We used excel and VBA, with which we created a macro that allowed us to facilitate the analysis and data visualization so that Steve can make the best recommendations to his parents.
+#### The parents of our client, Steve, want to invest in green energy stock, especially in DAQO. Because of this, Steve asked us to do a dataset analysis to identify the market performance of green stocks. We used excel and VBA, with which we created a macro that allowed us to facilitate the analysis and data visualization so that Steve can make the best recommendations to his parents.
 ### However, once we programmed our VBA script, the newest challenge is to improve the macro.
 
 ## Purpose
-### Our purpose is to refactor and improve the VBA code so it can run faster. That is, our goal is to refactor the macro to make it more efficient.
+#### Our purpose is to refactor and improve the VBA code so it can run faster. That is, our goal is to refactor the macro to make it more efficient.
 
 ## Results
-### Previously, our code for green energy stocks analysis used nested loops to report data from 2017 and 2018 sheets. Below are the images of the results and the time it took to run the macro.
+#### Previously, our code for green energy stocks analysis used nested loops to report data from 2017 and 2018 sheets. Below are the images of the results and the time it took to run the macro.
 
 ###### _The elapsed time of the previous version for 2017 and 2018_
 
 ![Alt text](/module2_2017.png "imagen0")
 ![Alt text](/module2_2018.png "imagen1")
 
-### Through the revision and refactoring of the code, it was possible to improve the code and reduce time.
+#### Through the revision and refactoring of the code, it was possible to improve the code and reduce time.
 
 ###### _The elapsed time of the newer version for 2017 and 2018_
 
