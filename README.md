@@ -21,7 +21,7 @@ image 2
 image 3
 image 4
 
-##**Summary**
+## Summary
 
 ## Advantages a Disadvantages of refactoring code in general
 ### Advantages:
