@@ -9,14 +9,14 @@
 #### Our purpose is to refactor and improve the VBA code so it can run faster. That is, our goal is to refactor the macro to make it more efficient.
 
 ## Results
-#### Previously, our code for green energy stocks analysis used nested loops to report data from 2017 and 2018 sheets. Below are the images of the results and the time it took to run the macro.
+#### Previously, our code for green energy stocks analysis used nested loops to report data from 2017 and 2018 sheets. Below are the images of the results and the time it took to run the macro:
 
 ###### _The elapsed time of the previous version for 2017 and 2018_
 
 ![Alt text](/module2_2017.png "imagen0")
 ![Alt text](/module2_2018.png "imagen1")
 
-#### Through the revision and refactoring of the code, it was possible to improve the code and reduce time.
+#### Through the revision and refactoring of the code, it was possible to improve the code and reduce time:
 
 ###### _The elapsed time of the newer version for 2017 and 2018_
 
