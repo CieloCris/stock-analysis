@@ -23,6 +23,8 @@
 ![Alt text](/challenge_2017.png "imagen3")
 ![Alt text](/challenge_2018.png "imagen4")
 
+#### To conclude with the results section, we share  our refactored code, which allowed us to improve the performance of the macro. However, we attach the files worked with VBA and Excel in Module 2 and the Challenge.
+
 ```
 Sub AllStocksAnalysisRefactored()
    
@@ -141,7 +143,6 @@ Sub AllStocksAnalysisRefactored()
 
 End Sub
 ```
-
 
 ## Summary
 
