@@ -24,7 +24,6 @@
 ![Alt text](/challenge_2018.png "imagen4")
 
 ######  Our refactored code below now runs faster than it did in this module.
-
 Sub AllStocksAnalysisRefactored()
    
    Dim startTime As Single
